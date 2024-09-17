@@ -1,0 +1,20 @@
+
+worm/
+├── go.mod
+├── go.sum
+├── main.go
+├── client.go
+├── ans/
+│   └── ans.go
+├── cache/
+│   └── cache.go
+├── network/
+    ├── network.go
+    ├── tcp.go
+    ├── tor.go
+    ├── dht.go
+    ├── wifi_direct.go
+    ├── webrtc.go
+    ├── adhoc.go
+    ├── lora.go
+    └── sneakernet.go
